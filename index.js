@@ -1,3 +1,5 @@
+const component = require('./components/foo');
+
 const React = require('react');
 const ReactDOM = require('react-dom');
 
